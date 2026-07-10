@@ -1,0 +1,17 @@
+body{ 
+    background-color: rgb(162, 215, 197);
+    text-decoration: wavy;
+    color: black;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: larger;
+}
+#add{
+    background-color: rgb(192, 46, 189);
+    transition: cubic-bezier(2);
+}
+#add:hover{
+    color: #84f091;
+}
